@@ -1,9 +1,14 @@
-## Hello, World! Me chamo Altieris Souza, tenho 19 anos e sou desenvolvedor Front-end!
-
-<div align="center"><br>
+<div align="center">
+  <h1>Hello, World! Me chamo Altieris Souza, tenho 19 anos e sou desenvolvedor Front-end!</h1>
   <a href="https://github.com/Altieris-Souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Altieris-Souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altieris-Souza&layout=compact&langs_count=7&theme=dark"/>
+  <div>
+    <br>
+  </div>
+  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=Altieris-Souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <div>
+    <br>
+  </div>
+  <img height="180em" width="463px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altieris-Souza&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
@@ -22,6 +27,8 @@
   <a href="https://instagram.com/altieris.sf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:altmsf15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/altierissouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ##
  
   ![Snake animation](https://github.com/Altieris-Souza/Altieris-Souza/blob/output/github-contribution-grid-snake.svg)
 </div>
