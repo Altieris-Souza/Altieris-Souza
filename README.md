@@ -2,12 +2,12 @@
   <h1>Hello, World! Me chamo Altieris Souza, tenho 19 anos e sou desenvolvedor Front-end!</h1>
   <a href="https://github.com/Altieris-Souza">
   <div>
-    <br>
-      </div>
-  <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altieris-Souza&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <br/>
   </div>
-  <img height="180em" width="490px" src="https://github-readme-stats.vercel.app/api?username=Altieris-Souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altieris-Souza&layout=compact&langs_count=7&theme=dark"/>
+  </div>
+  </div>
+    <img height="180em" width="490px" src="https://github-readme-stats.vercel.app/api?username=Altieris-Souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <div>
 
 ##
