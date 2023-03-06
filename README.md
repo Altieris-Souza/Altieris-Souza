@@ -4,7 +4,7 @@
   <div>
   <br/>
   </div>
-    <img height="180em" width="490px" src="https://github-readme-stats.vercel.app/api?username=Altieris-Souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="120em" width="490px" src="https://github-readme-stats.vercel.app/api?username=Altieris-Souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altieris-Souza&layout=compact&langs_count=7&theme=dark"/>
   </div>
 
