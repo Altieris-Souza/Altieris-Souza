@@ -7,8 +7,8 @@
   <img height="180em" width="490px" src="https://github-readme-stats.vercel.app/api?username=Altieris-Souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <div>
   </div>
-    <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altieris-Souza&layout=compact&langs_count=7&theme=dark"/>
-  </div>
+  <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altieris-Souza&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ##
 
@@ -23,6 +23,7 @@
   <img align="center" alt="Alt-postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   <img align="center" alt="Alt-mySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Alt-figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Alt-figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
   
   ##
