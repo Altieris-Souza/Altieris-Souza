@@ -39,8 +39,8 @@
   ##
   
   <div align="center">
-    <h1 align="center">Visitas</h1>
-    <p align="center">Teste<img align="center" src="https://profile-counter.glitch.me/Altieris-Souza/count.svg"/></p>
+    <p align="center">Visitas</p>
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/Altieris-Souza/count.svg"/></p>
   </div>
   
   ![Snake animation](https://github.com/Altieris-Souza/Altieris-Souza/blob/output/github-contribution-grid-snake.svg)
