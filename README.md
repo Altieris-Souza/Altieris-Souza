@@ -31,6 +31,10 @@
   <img align="center" alt="Alt-jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
  </div>
  
+ <br>
+ 
+ <p align="center"> <img align="center" src="https://profile-counter.glitch.me/Formandodev/count.svg/>"</p>
+ 
 <div align="center"><br>
   <a href="https://instagram.com/altieris.sf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:altmsf15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
