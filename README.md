@@ -38,9 +38,10 @@
   
   ##
   
-  <h1 align="center">Visitas</h1>
-  <br>  
-  <p align="center"> <img align="center" src="https://profile-counter.glitch.me/Altieris-Souza/count.svg"/></p>
+  <div align="center">
+    <h1 align="center">Visitas</h1>
+    <p align="center"> <img align="center" src="https://profile-counter.glitch.me/Altieris-Souza/count.svg"/></p>
+  </div>
   
   ##
   
