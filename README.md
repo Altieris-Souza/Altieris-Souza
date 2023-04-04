@@ -30,6 +30,8 @@
   <img align="center" alt="Alt-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Alt-jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
  </div>
+  
+  <br>
  
 <div align="center"><br>
   <a href="https://instagram.com/altieris.sf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -39,7 +41,7 @@
   ##
   
   <h1 align="center">Visitas</h1>
-  
+  <br>  
   <p align="center"> <img align="center" src="https://profile-counter.glitch.me/Altieris-Souza/count.svg"/></p>
   
   ![Snake animation](https://github.com/Altieris-Souza/Altieris-Souza/blob/output/github-contribution-grid-snake.svg)
