@@ -42,6 +42,8 @@
   
   ##
   
+  <p align="center"> <img align="center" src="https://profile-counter.glitch.me/Formandodev/count.svg/>"</p>
+  
   ![Snake animation](https://github.com/Altieris-Souza/Altieris-Souza/blob/output/github-contribution-grid-snake.svg)
 </div>
 
