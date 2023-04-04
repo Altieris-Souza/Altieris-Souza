@@ -39,7 +39,7 @@
   ##
   
   <div align="center">
-    <p align="center">Visitas</p>
+    <p size="30px" align="center">Visitas</p>
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/Altieris-Souza/count.svg"/></p>
   </div>
   
