@@ -36,8 +36,6 @@
   <a href = "mailto:altmsf15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/altierissouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ##
-  
   <h1 align="center">Visitas</h1>
   <br>  
   <p align="center"> <img align="center" src="https://profile-counter.glitch.me/Altieris-Souza/count.svg"/></p>
