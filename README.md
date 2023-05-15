@@ -40,7 +40,7 @@
   
   <div align="center">
     <h2 align="center">Visitas</h2>
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/Altieris-Souza/count.svg"/></p>
+    <img align="center" src="https://profile-counter.glitch.me/Altieris-Souza/count.svg"/>
   </div>
   
   ![Snake animation](https://github.com/Altieris-Souza/Altieris-Souza/blob/output/github-contribution-grid-snake.svg)
