@@ -36,8 +36,7 @@
 <div align="center">
   <img align="center" alt="Alt-sharepoint" height="50" width="60" src="https://icons8.com.br/icon/117558/microsoft-sharepoint-2019" />
 </div>
-  
-  <br>
+
  
 <div align="center"><br>
   <a href="https://instagram.com/altieris.sf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
