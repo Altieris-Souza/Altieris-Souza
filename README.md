@@ -12,30 +12,6 @@
 
 <div align="center">
   <h2>
-    Ferramentas Microsoft
-    <p> </p>
-    <p> </p>
-    <p> </p>
-    <p> </p>
-    <p> </p>
-    <p> </p>
-    <div align="center">
-      <img align="center" alt="Alt-automate" height="50" width="50" src="https://img.icons8.com/?size=1x&id=117558&format=png" />
-      <img align="center" alt="Alt-sharepoint" height="50" width="50" src="https://img.icons8.com/?size=1x&id=kTTt25v6Drpd&format=png" />
-      <img align="center" alt="Alt-apps" height="50" width="50" src="https://img.icons8.com/?size=1x&id=OU2ddOKw840K&format=png" />
-      <img align="center" alt="Alt-designer" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1gv6liJy_U-4yeC9X8eQ2_itEATXGTM1NJEH3e7OwJA&s" />
-    </div>
-    <p> </p>
-    <p> </p>
-    <p> </p>
-    <p> </p>
-    <p> </p>
-    <p> </p>
-  </h2>
-</div>
-
-<div align="center">
-  <h2>
     Linguagens
     <div align="center"><br>
       <img align="center" alt="Alt-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -62,6 +38,30 @@
       <p> </p>
       <p> </p>
       <p> </p>
+  </h2>
+</div>
+
+<div align="center">
+  <h2>
+    Ferramentas Microsoft
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <div align="center">
+      <img align="center" alt="Alt-automate" height="50" width="50" src="https://img.icons8.com/?size=1x&id=117558&format=png" />
+      <img align="center" alt="Alt-sharepoint" height="50" width="50" src="https://img.icons8.com/?size=1x&id=kTTt25v6Drpd&format=png" />
+      <img align="center" alt="Alt-apps" height="50" width="50" src="https://img.icons8.com/?size=1x&id=OU2ddOKw840K&format=png" />
+      <img align="center" alt="Alt-designer" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1gv6liJy_U-4yeC9X8eQ2_itEATXGTM1NJEH3e7OwJA&s" />
+    </div>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
   </h2>
 </div>
 
