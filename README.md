@@ -11,7 +11,7 @@
 ##
 
 <div align="center">
-  <p font-size="50px">Ferramentas Microsoft</p>
+  <h2>Ferramentas Microsoft</h2>
 </div>
 
 <div align="center">
