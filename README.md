@@ -14,8 +14,8 @@
   <h2>
     Ferramentas Microsoft
     <div align="center">
-  <img align="center" alt="Alt-sharepoint" height="50" width="60" src="https://icons8.com.br/icon/117558/microsoft-sharepoint-2019" />
-</div>
+      <img align="center" alt="Alt-sharepoint" height="50" width="60" src="https://icons8.com.br/icon/kTTt25v6Drpd/microsoft-power-automate-2020" />
+    </div>
   </h2>
 </div>
 
