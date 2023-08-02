@@ -13,7 +13,7 @@
 <div align="center">
   <h2>
     Ferramentas Microsoft
-    <div align="center" margin-top="50px">
+    <div align="center" margin="50px">
       <img align="center" alt="Alt-sharepoint" height="50" width="50" src="https://img.icons8.com/?size=1x&id=kTTt25v6Drpd&format=png" />
       <img align="center" alt="Alt-automate" height="50" width="50" src="https://img.icons8.com/?size=1x&id=117558&format=png" />
       <img align="center" alt="Alt-apps" height="50" width="50" src="https://img.icons8.com/?size=1x&id=OU2ddOKw840K&format=png" />
