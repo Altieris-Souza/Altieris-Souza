@@ -35,6 +35,13 @@
 </div>
 
 <h2>
+  Linguagens
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
   <div align="center"><br>
     <img align="center" alt="Alt-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Alt-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -47,6 +54,12 @@
     <img align="center" alt="Alt-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Alt-jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   </div>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
 </h2>
 
 <div align="center"><br>
