@@ -30,7 +30,7 @@
 </div>
 
 <div align="center"><br>
-  <h1>Ferramentas Microsoft</h1>
+  <p>Ferramentas Microsoft</p>
 </div>
 
 <div align="center"><br>
