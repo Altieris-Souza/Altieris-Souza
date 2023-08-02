@@ -52,6 +52,7 @@
       <img align="center" alt="Alt-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img align="center" alt="Alt-jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
     </div>
+    <p></p>
     <div>
       <img align="center" alt="Alt-jquery" height="50" width="60" src="https://img.icons8.com/?size=1x&id=13679&format=png" />
     </div>
