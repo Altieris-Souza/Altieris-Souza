@@ -14,7 +14,7 @@
   <h2>
     Ferramentas Microsoft
     <div align="center">
-      <img align="center" alt="Alt-sharepoint" height="50" width="60" src="https://img.icons8.com/?size=1x&id=kTTt25v6Drpd&format=png" />
+      <img align="center" alt="Alt-sharepoint" height="50" width="50" src="https://img.icons8.com/?size=1x&id=kTTt25v6Drpd&format=png" />
     </div>
   </h2>
 </div>
