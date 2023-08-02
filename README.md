@@ -29,7 +29,7 @@
   <img align="center" alt="Alt-jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 </div>
 
-<div>
+<div align="center"><br>
   <h1>Ferramentas Microsoft</h1>
 </div>
 
