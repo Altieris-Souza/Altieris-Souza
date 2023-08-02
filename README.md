@@ -10,6 +10,14 @@
 
 ##
 
+<div align="center">
+  <p>Ferramentas Microsoft</p>
+</div>
+
+<div align="center">
+  <img align="center" alt="Alt-sharepoint" height="50" width="60" src="https://icons8.com.br/icon/117558/microsoft-sharepoint-2019" />
+</div>
+
 <div align="center"><br>
   <img align="center" alt="Alt-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Alt-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -28,15 +36,6 @@
   <img align="center" alt="Alt-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Alt-jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 </div>
-
-<div align="center">
-  <p>Ferramentas Microsoft</p>
-</div>
-
-<div align="center">
-  <img align="center" alt="Alt-sharepoint" height="50" width="60" src="https://icons8.com.br/icon/117558/microsoft-sharepoint-2019" />
-</div>
-
  
 <div align="center"><br>
   <a href="https://instagram.com/altieris.sf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
