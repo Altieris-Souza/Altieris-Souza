@@ -37,9 +37,6 @@
 <div align="center">
   <h2>
     Linguagens
-      <p> </p>
-      <p> </p>
-      <p> </p>
     <div align="center"><br>
       <img align="center" alt="Alt-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       <img align="center" alt="Alt-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
