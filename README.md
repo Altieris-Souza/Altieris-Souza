@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <strong size="30px">Ferramentas Microsoft</strong>
+  <p>Ferramentas Microsoft</p>
 </div>
 
 <div align="center">
