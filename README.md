@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img align="center" alt="Alt-sharepoint" height="50" width="60" src="https://icons8.com.br/icon/117558/microsoft-sharepoint-2019" />
+  <img align="center" alt="Alt-sharepoint" height="50" width="60" src="https://icons8.com.br/icon/bVAf0kiXtJhO/microsoft-sharepoint-2019" />
 </div>
 
 <div align="center"><br>
